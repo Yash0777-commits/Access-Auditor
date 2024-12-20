@@ -135,15 +135,9 @@ sudo apt-get install curl jq  # Debian-based Linux systems
 
 ## Authors
 
-- **Author**: [Your Name]
-- **Date**: [Current Date]
+- **Author**: Yash Kumbhar
+- **Date**: 20/12/24
 - **Version**: 1.0.0
-
----
-
-## License
-
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
