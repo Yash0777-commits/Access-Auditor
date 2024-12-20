@@ -1,0 +1,8 @@
+# Requirements file for AccessAuditor script
+
+# For accessing GitHub API
+curl
+
+# For parsing JSON responses
+jq
+
