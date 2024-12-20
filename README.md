@@ -1,4 +1,4 @@
-# AccessAuditor
+# Access-Auditor
 
 AccessAuditor is a simple yet powerful Bash script designed to list all users who have read access (pull permissions) to a specified GitHub repository. This can be particularly useful for managing access permissions in collaborative environments.
 
